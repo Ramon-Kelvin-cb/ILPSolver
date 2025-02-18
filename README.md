@@ -1,0 +1,2 @@
+# Solver para problemas de Programação Inteira
+Na faculdade participei da matéira Programação Combinatória que trabalha com otimização em conjuntos finitos, sendo uma intercessão entre a Matemática Aplicada e a Ciência da Computação. O meu projeto final do curso foi a implementação de um solver de problemas de Programação Linear interia, ou seja, problemas de otimização em que as variáveis são números inteiros 
